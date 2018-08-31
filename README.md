@@ -5,8 +5,7 @@ same time.
 
 ## Authors
 
-* **Siddharth Patel** (https://github.com/sidpatel-github/java-
-ctions)
+* **Siddharth Patel** (https://github.com/sidpatel-github/FTP)
 
 ## License
 
